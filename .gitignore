@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+*.class
+
+# Build folders
+out/
+target/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.dbe
